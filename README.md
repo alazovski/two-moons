@@ -2,6 +2,10 @@
 
 A warm night theme for Claude Code in the Claude desktop and mobile apps, in homage to Haruki Murakami.
 
+![Two moons over a quiet Tokyo street: a coffee house, a glowing vending machine and a cat on a wall](docs/preview.jpg)
+
+*The background scene as a still frame. In the app it moves slowly, behind frosted panels.*
+
 Behind the conversation: a quiet Tokyo backstreet under two moons, one pale gold and one small and green. A coffee house with a 喫茶 sign, a red paper lantern and a noren curtain; a glowing vending machine; a cat on a block wall looking up at the sky. Motion is slow and calm, and stops when the system's reduced-motion setting is on.
 
 The app's own colours change to match: dark umber panels, warm cream text and a lamp-amber accent. The theme is dark mode only.
