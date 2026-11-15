@@ -14,19 +14,14 @@ All artwork is original and drawn in SVG. It uses no book-cover imagery or other
 
 ## Install
 
-At the prompt of a Claude Code terminal session:
+From a shell, add this repository as a marketplace, then install the plugin from it:
 
 ```
-/plugin install two-moons --marketplace alazovski/two-moons
+claude plugin marketplace add alazovski/two-moons
+claude plugin install two-moons@two-moons
 ```
 
-Answer `y` to add the marketplace, then pick a scope (user scope applies it to every session).
-
-From a shell:
-
-```
-claude plugin install two-moons --marketplace alazovski/two-moons
-```
+This installs it for your user account, so every new session loads it. Sessions already open may need to be restarted.
 
 In the Claude desktop app: click + next to the prompt box, then Plugins, Add marketplace with `alazovski/two-moons`, then Add plugin.
 
