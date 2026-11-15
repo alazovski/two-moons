@@ -51,6 +51,6 @@ export const register: Register = on => {
     }
     const { Svg } = $.ui.resolve(e)
 
-    return <Svg source={SCENE} alt="Two moons over a quiet Tokyo street: a coffee house, a glowing vending machine and a cat on a wall" isInteractive />
+    return <Svg source={SCENE} alt="Two moons over a quiet Tokyo street in light snow: a coffee house, a glowing vending machine and a cat on a wall" isInteractive />
   })
 }
